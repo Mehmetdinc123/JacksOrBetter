@@ -1,0 +1,8 @@
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\bin\Release\jacksorbetter.exe.config
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\bin\Release\jacksorbetter.exe
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\bin\Release\jacksorbetter.pdb
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Release\jacksorbetter.Form1.resources
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Release\jacksorbetter.Properties.Resources.resources
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Release\jacksorbetter.csproj.GenerateResource.Cache
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Release\jacksorbetter.exe
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Release\jacksorbetter.pdb

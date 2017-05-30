@@ -1,0 +1,27 @@
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\bin\Debug\jacksorbetter.exe.config
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\bin\Debug\jacksorbetter.exe
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\bin\Debug\jacksorbetter.pdb
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.csprojResolveAssemblyReference.cache
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.Properties.Resources.resources
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.csproj.GenerateResource.Cache
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.exe
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.pdb
+C:\Users\btuba\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.Oyun.resources
+C:\Users\btuba\Desktop\Yeni klasör (2)\Yeni klasör (2)\jacksorbetter\jacksorbetter\bin\Debug\jacksorbetter.exe.config
+C:\Users\btuba\Desktop\Yeni klasör (2)\Yeni klasör (2)\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.exe
+C:\Users\btuba\Desktop\Yeni klasör (2)\Yeni klasör (2)\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.pdb
+C:\Users\btuba\Desktop\Yeni klasör (2)\Yeni klasör (2)\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.csprojResolveAssemblyReference.cache
+C:\Users\btuba\Desktop\Yeni klasör (2)\Yeni klasör (2)\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.Oyun.resources
+C:\Users\btuba\Desktop\Yeni klasör (2)\Yeni klasör (2)\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.Properties.Resources.resources
+C:\Users\btuba\Desktop\Yeni klasör (2)\Yeni klasör (2)\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.csproj.GenerateResource.Cache
+C:\Users\btuba\Desktop\Yeni klasör (2)\Yeni klasör (2)\jacksorbetter\jacksorbetter\bin\Debug\jacksorbetter.exe
+C:\Users\btuba\Desktop\Yeni klasör (2)\Yeni klasör (2)\jacksorbetter\jacksorbetter\bin\Debug\jacksorbetter.pdb
+C:\Users\dinç\Desktop\jacksorbetter\jacksorbetter\bin\Debug\jacksorbetter.exe.config
+C:\Users\dinç\Desktop\jacksorbetter\jacksorbetter\bin\Debug\jacksorbetter.exe
+C:\Users\dinç\Desktop\jacksorbetter\jacksorbetter\bin\Debug\jacksorbetter.pdb
+C:\Users\dinç\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.csprojResolveAssemblyReference.cache
+C:\Users\dinç\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.Oyun.resources
+C:\Users\dinç\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.Properties.Resources.resources
+C:\Users\dinç\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.csproj.GenerateResource.Cache
+C:\Users\dinç\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.exe
+C:\Users\dinç\Desktop\jacksorbetter\jacksorbetter\obj\Debug\jacksorbetter.pdb
